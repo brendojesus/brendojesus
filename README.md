@@ -11,7 +11,7 @@
 
 <p align="center">Sou um profissional capaz de analisar, projetar, especificar, codificar, testar, implantar e manter softwares computacionais.</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=bastosmelo&label=Visualizações%20no%20perfil&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=brendojesus&label=Visualizações%20no%20perfil&color=0e75b6&style=flat)
 
 - 🔭 Atualmente, eu trabalho em empresa própria = **Boss Jóias**
 - 🌱 Meus estudos atuais focam em **Front End (HTML, CSS, JavaScript, TypeScript, Flutter e Dart)**
